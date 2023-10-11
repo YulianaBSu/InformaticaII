@@ -493,7 +493,7 @@ int main()
         int numero;
         cout<<"Ingrese numero a convertir: ";
         cin>>numero;
-        char cadena[50]; // Asumimos que la cadena no tendrá más de 100 caracteres
+        char cadena[50]; // Asumimos que la cadena no tendrá más de 50 caracteres
 
         convcad(numero, cadena);
 
